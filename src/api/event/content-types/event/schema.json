@@ -25,12 +25,6 @@
     "address": {
       "type": "string"
     },
-    "date": {
-      "type": "datetime"
-    },
-    "time": {
-      "type": "string"
-    },
     "performers": {
       "type": "string"
     },
@@ -57,8 +51,11 @@
     "city": {
       "type": "string"
     },
-    "timeuk": {
-      "type": "time"
+    "date": {
+      "type": "date"
+    },
+    "time": {
+      "type": "string"
     }
   }
 }
